@@ -1,5 +1,5 @@
 # WordPress #
-############
+#############
 wp-config-local.php
 wp-cli.local.yml
 wp-content/uploads
@@ -53,5 +53,5 @@ Thumbs.db
 *.un~
 
 # SASS #
-##########
+########
 .sass-cache
