@@ -34,8 +34,7 @@ pantheon.upstream.yml
 *.tar
 *.zip
 *.tgz
-!wp-includes/**/*.gz
-!wp-content/plugins/iq-block-country/vendor/guzzle/guzzle/tests/Guzzle/Tests/TestData/test.tar.gz
+!test.tar.gz
 
 # Logs and databases #
 ######################
